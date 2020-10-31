@@ -1,2 +1,0 @@
-# konusarakogren
-Konuşarak Öğren Proje
